@@ -1,6 +1,3 @@
-# Guardar los gráficos en lugar de mostrarlos
-
-# Crear carpeta "imagenes" si no existe
 import os
 
 output_dir = "imagenes"
